@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Lab2.View.FruitView"
+             Title="CS481 ListView Lab!"
+             x:Name="fruitView">
+    <ContentPage.Content>
+        <StackLayout >
+            <ListView x:Name="listFruits" ItemsSource="{Binding Fruits}" HasUnevenRows="True" ItemTapped="ItemTapped" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                       <!-- <TextCell Text="{Binding Topic}" TextColor="Purple"
+                                  Detail="{Binding FruitName}" DetailColor="Maroon"
+                                 >
+                            
+                        </TextCell> !-->
+                       <!--<ImageCell Text="{Binding Topic}" TextColor="Purple"
+                                  Detail="{Binding FruitName}" DetailColor="Maroon" ImageSource ="{Binding ImageURL}" />
+                        !-->
+                        <ViewCell>
+                            <ViewCell.View>
+                                <StackLayout Orientation="Vertical">
+                                    <StackLayout Orientation="Horizontal">
+                                        
+                                    <Grid Padding="1" RowSpacing="5" ColumnSpacing="1" 
+                                        x:Name="ListViewGrid"
+                                   >
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="*" />
+                                        </Grid.RowDefinitions>
+                                    
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*" />
+                                            <ColumnDefinition Width="*" />
+                                        </Grid.ColumnDefinitions>
+                                        <Label Text="{Binding FruitName}" FontSize="20" TextColor="Purple" />
+                                        <Image Grid.Row ="1" Grid.Column="1"  Source="{Binding ImageURL}" WidthRequest="100" HeightRequest="50" />
+                                        <Image Grid.Row ="1" Grid.Column="2" Source="{Binding ImageURL2}" WidthRequest="100" HeightRequest="50" />
+                                        
+                                    </Grid>
+                                        </StackLayout>
+                                    <Label Text="{Binding ShortDescription}" FontSize="18" />
+                                        
+                                </StackLayout>
+                            </ViewCell.View>
+                        </ViewCell>
+
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

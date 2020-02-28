@@ -1,0 +1,15 @@
+C:\Users\Rogelio\source\repos\CS481_Lab2_Rogelio_Cordova\Lab2\Lab2\bin\Debug\netstandard2.0\Lab2.deps.json
+C:\Users\Rogelio\source\repos\CS481_Lab2_Rogelio_Cordova\Lab2\Lab2\bin\Debug\netstandard2.0\Lab2.dll
+C:\Users\Rogelio\source\repos\CS481_Lab2_Rogelio_Cordova\Lab2\Lab2\bin\Debug\netstandard2.0\ref\Lab2.dll
+C:\Users\Rogelio\source\repos\CS481_Lab2_Rogelio_Cordova\Lab2\Lab2\bin\Debug\netstandard2.0\Lab2.pdb
+C:\Users\Rogelio\source\repos\CS481_Lab2_Rogelio_Cordova\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.csprojAssemblyReference.cache
+C:\Users\Rogelio\source\repos\CS481_Lab2_Rogelio_Cordova\Lab2\Lab2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Rogelio\source\repos\CS481_Lab2_Rogelio_Cordova\Lab2\Lab2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Rogelio\source\repos\CS481_Lab2_Rogelio_Cordova\Lab2\Lab2\obj\Debug\netstandard2.0\View\FruitView.xaml.g.cs
+C:\Users\Rogelio\source\repos\CS481_Lab2_Rogelio_Cordova\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\Rogelio\source\repos\CS481_Lab2_Rogelio_Cordova\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.AssemblyInfo.cs
+C:\Users\Rogelio\source\repos\CS481_Lab2_Rogelio_Cordova\Lab2\Lab2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Rogelio\source\repos\CS481_Lab2_Rogelio_Cordova\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.dll
+C:\Users\Rogelio\source\repos\CS481_Lab2_Rogelio_Cordova\Lab2\Lab2\obj\Debug\netstandard2.0\ref\Lab2.dll
+C:\Users\Rogelio\source\repos\CS481_Lab2_Rogelio_Cordova\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.pdb
+C:\Users\Rogelio\source\repos\CS481_Lab2_Rogelio_Cordova\Lab2\Lab2\obj\Debug\netstandard2.0\FruitsDetails.xaml.g.cs
