@@ -9,7 +9,7 @@
              x:Name="fruitView">
     <ContentPage.Content>
         <StackLayout >
-            <ListView x:Name="listFruits" ItemsSource="{Binding Fruits}" HasUnevenRows="True" ItemTapped="ItemTapped" >
+            <ListView x:Name="listFruits" ItemsSource="{Binding Fruits}" HasUnevenRows="True" ItemTapped="ItemTapped" IsPullToRefreshEnabled="True" Refreshing="RefreshCommand">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                        <!-- <TextCell Text="{Binding Topic}" TextColor="Purple"

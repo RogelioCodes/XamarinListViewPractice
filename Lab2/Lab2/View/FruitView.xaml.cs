@@ -45,5 +45,13 @@ namespace Lab2.View
             var mydetails = e.Item as Fruit;
             await Navigation.PushAsync(new FruitsDetails(mydetails.FruitName, mydetails.Topic, mydetails.ShortDescription, mydetails.ImageURL, mydetails.ImageURL2));
         }
+
+        public void RefreshCommand(object sender, System.EventArgs e)
+        {
+            //Name of list 
+            listFruits.IsRefreshing = false;
+            DisplayAlert("Yo!", "This is Vince's awesome refresh message! Get ready for Rogelio's and Olaf's! ", "OK");
+
+        }
     }
 }

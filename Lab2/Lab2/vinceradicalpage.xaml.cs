@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using System.Windows.Input;
 
 namespace Lab2
 {
@@ -16,5 +17,7 @@ namespace Lab2
         {
             InitializeComponent();
         }
+
+        //public ICommand RefreshCommand => new Command(async () => await RefreshItemsAsync());
     }
 }
