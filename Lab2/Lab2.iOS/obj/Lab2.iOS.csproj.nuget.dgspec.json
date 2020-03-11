@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rogelio\\source\\repos\\CS481_Lab2_Rogelio_Cordova\\Lab2\\Lab2.iOS\\Lab2.iOS.csproj": {}
+    "C:\\Users\\invin\\source\\repos\\cs481_lab2_rogelio_cordova\\Lab2\\Lab2.iOS\\Lab2.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rogelio\\source\\repos\\CS481_Lab2_Rogelio_Cordova\\Lab2\\Lab2.iOS\\Lab2.iOS.csproj": {
+    "C:\\Users\\invin\\source\\repos\\cs481_lab2_rogelio_cordova\\Lab2\\Lab2.iOS\\Lab2.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rogelio\\source\\repos\\CS481_Lab2_Rogelio_Cordova\\Lab2\\Lab2.iOS\\Lab2.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\invin\\source\\repos\\cs481_lab2_rogelio_cordova\\Lab2\\Lab2.iOS\\Lab2.iOS.csproj",
         "projectName": "Lab2.iOS",
-        "projectPath": "C:\\Users\\Rogelio\\source\\repos\\CS481_Lab2_Rogelio_Cordova\\Lab2\\Lab2.iOS\\Lab2.iOS.csproj",
-        "packagesPath": "C:\\Users\\Rogelio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rogelio\\source\\repos\\CS481_Lab2_Rogelio_Cordova\\Lab2\\Lab2.iOS\\obj\\",
+        "projectPath": "C:\\Users\\invin\\source\\repos\\cs481_lab2_rogelio_cordova\\Lab2\\Lab2.iOS\\Lab2.iOS.csproj",
+        "packagesPath": "C:\\Users\\invin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\invin\\source\\repos\\cs481_lab2_rogelio_cordova\\Lab2\\Lab2.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rogelio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\invin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Rogelio\\source\\repos\\CS481_Lab2_Rogelio_Cordova\\Lab2\\Lab2\\Lab2.csproj": {
-                "projectPath": "C:\\Users\\Rogelio\\source\\repos\\CS481_Lab2_Rogelio_Cordova\\Lab2\\Lab2\\Lab2.csproj"
+              "C:\\Users\\invin\\source\\repos\\cs481_lab2_rogelio_cordova\\Lab2\\Lab2\\Lab2.csproj": {
+                "projectPath": "C:\\Users\\invin\\source\\repos\\cs481_lab2_rogelio_cordova\\Lab2\\Lab2\\Lab2.csproj"
               }
             }
           }
@@ -65,20 +65,20 @@
         }
       }
     },
-    "C:\\Users\\Rogelio\\source\\repos\\CS481_Lab2_Rogelio_Cordova\\Lab2\\Lab2\\Lab2.csproj": {
+    "C:\\Users\\invin\\source\\repos\\cs481_lab2_rogelio_cordova\\Lab2\\Lab2\\Lab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rogelio\\source\\repos\\CS481_Lab2_Rogelio_Cordova\\Lab2\\Lab2\\Lab2.csproj",
+        "projectUniqueName": "C:\\Users\\invin\\source\\repos\\cs481_lab2_rogelio_cordova\\Lab2\\Lab2\\Lab2.csproj",
         "projectName": "Lab2",
-        "projectPath": "C:\\Users\\Rogelio\\source\\repos\\CS481_Lab2_Rogelio_Cordova\\Lab2\\Lab2\\Lab2.csproj",
-        "packagesPath": "C:\\Users\\Rogelio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rogelio\\source\\repos\\CS481_Lab2_Rogelio_Cordova\\Lab2\\Lab2\\obj\\",
+        "projectPath": "C:\\Users\\invin\\source\\repos\\cs481_lab2_rogelio_cordova\\Lab2\\Lab2\\Lab2.csproj",
+        "packagesPath": "C:\\Users\\invin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\invin\\source\\repos\\cs481_lab2_rogelio_cordova\\Lab2\\Lab2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rogelio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\invin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
