@@ -12,14 +12,7 @@
             <ListView x:Name="listFruits" ItemsSource="{Binding Fruits}" HasUnevenRows="True" ItemTapped="ItemTapped" >
                 <ListView.ItemTemplate>
                     <DataTemplate>
-                       <!-- <TextCell Text="{Binding Topic}" TextColor="Purple"
-                                  Detail="{Binding FruitName}" DetailColor="Maroon"
-                                 >
-                            
-                        </TextCell> !-->
-                       <!--<ImageCell Text="{Binding Topic}" TextColor="Purple"
-                                  Detail="{Binding FruitName}" DetailColor="Maroon" ImageSource ="{Binding ImageURL}" />
-                        !-->
+                       <!---Here is the layout for the main page essentially-->
                         <ViewCell>
                             <ViewCell.View>
                                 <StackLayout Orientation="Vertical">
