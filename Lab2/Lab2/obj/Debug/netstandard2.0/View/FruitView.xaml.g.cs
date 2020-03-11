@@ -13,7 +13,7 @@
 namespace Lab2.View {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\FruitView.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View/FruitView.xaml")]
     public partial class FruitView : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
