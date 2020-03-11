@@ -56,5 +56,6 @@ namespace Lab2.ViewModel
             };
             //Fruits = new Fruit().GetFruits();
         }
+        //more fruits
     }
 }
