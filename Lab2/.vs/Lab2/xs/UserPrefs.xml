@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{474EECFD-F903-4D58-A011-2D1982CF649C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab2/View/FruitView.xaml">
+    <Files>
+      <File FileName="Lab2/Olaf_s_Magical_Page.xaml" Line="2" Column="14" />
+      <File FileName="Lab2/Olaf_s_Magical_Page.xaml.cs" Line="13" Column="10" />
+      <File FileName="Lab2/ViewModel/FruitViewModel.cs" Line="1" Column="1" />
+      <File FileName="Lab2/View/FruitView.xaml" Line="12" Column="118" />
+      <File FileName="Lab2/View/FruitView.xaml.cs" Line="30" Column="1" />
+      <File FileName="Lab2/FruitsDetails.xaml" Line="20" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab2" expanded="True">
+            <Node name="Lab2" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="View" expanded="True">
+                <Node name="FruitView.xaml" expanded="True" selected="True" />
+              </Node>
+              <Node name="ViewModel" expanded="True" />
+              <Node name="Olaf_s_Magical_Page.xaml" expanded="True" />
+            </Node>
+            <Node name="Lab2.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab2.Android PreferredExecutionTarget="Android.pixel_3_pie_9_0_-_api_28" />
+</Properties>

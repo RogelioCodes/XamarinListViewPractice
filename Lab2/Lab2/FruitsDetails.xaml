@@ -7,6 +7,7 @@
              x:Class="Lab2.FruitsDetails"
              Title="Details Page">
     <ContentPage.Content>
+        <ScrollView>
         <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
             
             <Image x:Name="MyImageCall" HeightRequest="400" WidthRequest="400"></Image>
@@ -14,5 +15,6 @@
             <Label x:Name="MyItemNameShow" HorizontalTextAlignment="Center" FontSize="18" />
             <Label x:Name="MyDetailItemShow" Margin="20, 20" FontSize="18"/>
         </StackLayout>
+            </ScrollView>
     </ContentPage.Content>
 </ContentPage>
